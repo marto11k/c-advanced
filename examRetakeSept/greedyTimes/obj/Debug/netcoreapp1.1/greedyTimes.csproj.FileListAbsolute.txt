@@ -1,0 +1,9 @@
+E:\c#\examRetakeSept\greedyTimes\bin\Debug\netcoreapp1.1\greedyTimes.deps.json
+E:\c#\examRetakeSept\greedyTimes\bin\Debug\netcoreapp1.1\greedyTimes.runtimeconfig.json
+E:\c#\examRetakeSept\greedyTimes\bin\Debug\netcoreapp1.1\greedyTimes.runtimeconfig.dev.json
+E:\c#\examRetakeSept\greedyTimes\bin\Debug\netcoreapp1.1\greedyTimes.dll
+E:\c#\examRetakeSept\greedyTimes\bin\Debug\netcoreapp1.1\greedyTimes.pdb
+E:\c#\examRetakeSept\greedyTimes\obj\Debug\netcoreapp1.1\greedyTimes.csprojResolveAssemblyReference.cache
+E:\c#\examRetakeSept\greedyTimes\obj\Debug\netcoreapp1.1\greedyTimes.AssemblyInfo.cs
+E:\c#\examRetakeSept\greedyTimes\obj\Debug\netcoreapp1.1\greedyTimes.dll
+E:\c#\examRetakeSept\greedyTimes\obj\Debug\netcoreapp1.1\greedyTimes.pdb

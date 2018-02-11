@@ -1,0 +1,9 @@
+E:\c#\examRetakeSept\cryptoMaster\bin\Debug\netcoreapp1.1\cryptoMaster.deps.json
+E:\c#\examRetakeSept\cryptoMaster\bin\Debug\netcoreapp1.1\cryptoMaster.runtimeconfig.json
+E:\c#\examRetakeSept\cryptoMaster\bin\Debug\netcoreapp1.1\cryptoMaster.runtimeconfig.dev.json
+E:\c#\examRetakeSept\cryptoMaster\bin\Debug\netcoreapp1.1\cryptoMaster.dll
+E:\c#\examRetakeSept\cryptoMaster\bin\Debug\netcoreapp1.1\cryptoMaster.pdb
+E:\c#\examRetakeSept\cryptoMaster\obj\Debug\netcoreapp1.1\cryptoMaster.csprojResolveAssemblyReference.cache
+E:\c#\examRetakeSept\cryptoMaster\obj\Debug\netcoreapp1.1\cryptoMaster.AssemblyInfo.cs
+E:\c#\examRetakeSept\cryptoMaster\obj\Debug\netcoreapp1.1\cryptoMaster.dll
+E:\c#\examRetakeSept\cryptoMaster\obj\Debug\netcoreapp1.1\cryptoMaster.pdb

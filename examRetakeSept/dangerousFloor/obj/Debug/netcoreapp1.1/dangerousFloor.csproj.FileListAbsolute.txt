@@ -1,0 +1,9 @@
+E:\c#\examRetakeSept\dangerousFloor\bin\Debug\netcoreapp1.1\dangerousFloor.deps.json
+E:\c#\examRetakeSept\dangerousFloor\bin\Debug\netcoreapp1.1\dangerousFloor.runtimeconfig.json
+E:\c#\examRetakeSept\dangerousFloor\bin\Debug\netcoreapp1.1\dangerousFloor.runtimeconfig.dev.json
+E:\c#\examRetakeSept\dangerousFloor\bin\Debug\netcoreapp1.1\dangerousFloor.dll
+E:\c#\examRetakeSept\dangerousFloor\bin\Debug\netcoreapp1.1\dangerousFloor.pdb
+E:\c#\examRetakeSept\dangerousFloor\obj\Debug\netcoreapp1.1\dangerousFloor.csprojResolveAssemblyReference.cache
+E:\c#\examRetakeSept\dangerousFloor\obj\Debug\netcoreapp1.1\dangerousFloor.AssemblyInfo.cs
+E:\c#\examRetakeSept\dangerousFloor\obj\Debug\netcoreapp1.1\dangerousFloor.dll
+E:\c#\examRetakeSept\dangerousFloor\obj\Debug\netcoreapp1.1\dangerousFloor.pdb
