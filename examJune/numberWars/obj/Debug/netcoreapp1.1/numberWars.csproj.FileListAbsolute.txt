@@ -1,0 +1,9 @@
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\numberWars\bin\Debug\netcoreapp1.1\numberWars.deps.json
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\numberWars\bin\Debug\netcoreapp1.1\numberWars.runtimeconfig.json
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\numberWars\bin\Debug\netcoreapp1.1\numberWars.runtimeconfig.dev.json
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\numberWars\bin\Debug\netcoreapp1.1\numberWars.dll
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\numberWars\bin\Debug\netcoreapp1.1\numberWars.pdb
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\numberWars\obj\Debug\netcoreapp1.1\numberWars.csprojResolveAssemblyReference.cache
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\numberWars\obj\Debug\netcoreapp1.1\numberWars.AssemblyInfo.cs
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\numberWars\obj\Debug\netcoreapp1.1\numberWars.dll
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\numberWars\obj\Debug\netcoreapp1.1\numberWars.pdb

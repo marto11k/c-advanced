@@ -1,0 +1,8 @@
+c:\users\martin\documents\visual studio 2017\Projects\examJune\knightGame\bin\Debug\netcoreapp1.1\knightGame.deps.json
+c:\users\martin\documents\visual studio 2017\Projects\examJune\knightGame\bin\Debug\netcoreapp1.1\knightGame.runtimeconfig.json
+c:\users\martin\documents\visual studio 2017\Projects\examJune\knightGame\bin\Debug\netcoreapp1.1\knightGame.runtimeconfig.dev.json
+c:\users\martin\documents\visual studio 2017\Projects\examJune\knightGame\bin\Debug\netcoreapp1.1\knightGame.dll
+c:\users\martin\documents\visual studio 2017\Projects\examJune\knightGame\bin\Debug\netcoreapp1.1\knightGame.pdb
+c:\users\martin\documents\visual studio 2017\Projects\examJune\knightGame\obj\Debug\netcoreapp1.1\knightGame.AssemblyInfo.cs
+c:\users\martin\documents\visual studio 2017\Projects\examJune\knightGame\obj\Debug\netcoreapp1.1\knightGame.dll
+c:\users\martin\documents\visual studio 2017\Projects\examJune\knightGame\obj\Debug\netcoreapp1.1\knightGame.pdb

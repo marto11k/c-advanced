@@ -1,0 +1,9 @@
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\hospital\bin\Debug\netcoreapp1.1\hospital.deps.json
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\hospital\bin\Debug\netcoreapp1.1\hospital.runtimeconfig.json
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\hospital\bin\Debug\netcoreapp1.1\hospital.runtimeconfig.dev.json
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\hospital\bin\Debug\netcoreapp1.1\hospital.dll
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\hospital\bin\Debug\netcoreapp1.1\hospital.pdb
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\hospital\obj\Debug\netcoreapp1.1\hospital.csprojResolveAssemblyReference.cache
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\hospital\obj\Debug\netcoreapp1.1\hospital.AssemblyInfo.cs
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\hospital\obj\Debug\netcoreapp1.1\hospital.dll
+C:\Users\Martin\documents\visual studio 2017\Projects\examJune\hospital\obj\Debug\netcoreapp1.1\hospital.pdb

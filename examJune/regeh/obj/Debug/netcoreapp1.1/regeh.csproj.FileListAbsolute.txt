@@ -1,0 +1,9 @@
+c:\users\martin\documents\visual studio 2017\Projects\examJune\regeh\bin\Debug\netcoreapp1.1\regeh.deps.json
+c:\users\martin\documents\visual studio 2017\Projects\examJune\regeh\bin\Debug\netcoreapp1.1\regeh.runtimeconfig.json
+c:\users\martin\documents\visual studio 2017\Projects\examJune\regeh\bin\Debug\netcoreapp1.1\regeh.runtimeconfig.dev.json
+c:\users\martin\documents\visual studio 2017\Projects\examJune\regeh\bin\Debug\netcoreapp1.1\regeh.dll
+c:\users\martin\documents\visual studio 2017\Projects\examJune\regeh\bin\Debug\netcoreapp1.1\regeh.pdb
+c:\users\martin\documents\visual studio 2017\Projects\examJune\regeh\obj\Debug\netcoreapp1.1\regeh.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2017\Projects\examJune\regeh\obj\Debug\netcoreapp1.1\regeh.AssemblyInfo.cs
+c:\users\martin\documents\visual studio 2017\Projects\examJune\regeh\obj\Debug\netcoreapp1.1\regeh.dll
+c:\users\martin\documents\visual studio 2017\Projects\examJune\regeh\obj\Debug\netcoreapp1.1\regeh.pdb
